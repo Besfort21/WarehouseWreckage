@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEProjects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/Maps/Minimal.umap",
+				"D:/UEProjects/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/Main.umap",
+				"D:/UEProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/UEProjects/WarehouseWreckage/Content/WarehouseWreckage/Minimal.umap"
+			]
+		}
+	]
+}
